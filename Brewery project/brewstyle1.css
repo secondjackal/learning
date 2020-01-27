@@ -1,0 +1,18 @@
+h1{
+	color: white;
+    background: linear-gradient(to bottom, white, DarkGoldenrod);;
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.1em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.3em;
+    border-bottom-color: #DEB887	;
+}
+
+body{
+	background-color: Linen;
+}
